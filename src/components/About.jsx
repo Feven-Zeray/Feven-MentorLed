@@ -30,27 +30,8 @@ export default function About() {
       </div>
       {/* About me content end */}
 
-      {/* About me personal details start */}
-      <div className="col-lg-5 col-xl-4">
-        <div className="ps-lg-4">
-          <ul className="list-style-2">
-            <li>
-              <span className="fw-600 me-2">Name:</span>Simone Olivia
-            </li>
-            <li>
-              <span className="fw-600 me-2">Email:</span>
-              <a href="mailto:chat@simone.com">chat@simone.com</a>
-            </li>
-            <li>
-              <span className="fw-600 me-2">Age:</span>28
-            </li>
-            <li className="border-0">
-              <span className="fw-600 me-2">From:</span>Los Angeles, California
-            </li>
-          </ul>
-        </div>
-      </div>
-      {/* About me personal details end */}
+   
+    
     </div>
   );
 }
