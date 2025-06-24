@@ -1,15 +1,4 @@
 
-// import React from 'react'
-// import styles from './Contact.module.css'
-
-// const Contact = () => (
-//   <section className={styles.contact}>
-//     {/* <h2>Contact</h2>
-//     <p>Email me at <a href="mailto:feven@example.com">feven@example.com</a></p> */}
-//   </section>
-// )
-
-// export default Contact
 import React from 'react';
 import styles from './Contact.module.css';
 
@@ -25,7 +14,7 @@ const Contact = () => {
           className={styles.form}
           onSubmit={(e) => {
             e.preventDefault();
-            alert("Message sent! (not actually sending anywhere)");
+            alert("Message sent!)");
           }}
         >
           <input
@@ -50,7 +39,7 @@ const Contact = () => {
           </button>
         </form>
         <p className={styles.emailNote}>
-          Or email me directly at: <a href="mailto:feven@example.com">feven@example.com</a>
+          Or email me directly at: <a href="mailto:feven@codes.com">feven@codes.com</a>
         </p>
       </div>
     </section>
