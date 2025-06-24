@@ -19,13 +19,13 @@ export default function About() {
       {/* About me content start */}
       <div className="col-lg-7 col-xl-8 text-center text-lg-start">
         <h2 className="text-7 fw-600 mb-3">
-          I'm <span className="text-primary">Simone Olivia,</span> a Web Developer
+          I'm <span className="text-primary">Feven Zeray,</span> a Full Stack Web Developer
         </h2>
         <p>
-          I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with our dedicated team. When an unknown printer took a galley of type and scrambled it to make a type specimen book.
+         I'm a creative Full Stack Web Developer based in Gondar, Ethiopia. Skilled at building responsive, user-friendly websites that meet modern web standards. My focus is on writing clean, efficient code and creating scalable web applications that meet the latest web standards.
         </p>
         <p>
-          Delivering work within time and budget which meets client’s requirements is our moto. Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took a galley.
+         Alongside my development skills, I also have experience in social media marketing, allowing me to understand how websites and online presence can work together to engage audiences and drive results. By combining my technical knowledge with my marketing background, I can create websites that are not only functional but also optimized to help businesses grow and reach their target audience. I’m always eager to take on new challenges, trying to learn new skills to improve myself and my work.
         </p>
       </div>
       {/* About me content end */}
